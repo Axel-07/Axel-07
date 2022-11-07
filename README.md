@@ -1,6 +1,6 @@
 # Axel-07
 
-![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/Githubp.jpg)
+![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
