@@ -6,10 +6,17 @@
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <a href="https://app.daily.dev/axelriveros"><img src="https://github.com/Axel-07/Axel-07/blob/main/devcard.svg" width="300" alt="Axel's Dev Card"/></a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=flat" alt="axel-07" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-- - 📫 How to reach me **riverosaxeln@gmail.com**
+- 📫 How to reach me **riverosaxeln@gmail.com**
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
 
