@@ -1,5 +1,6 @@
 # Axel-07
 
+![image](https://user-images.githubusercontent.com/69872620/200393951-69b24f5a-7f2b-4c38-84bf-5fac60a089d5.png)
 
 
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
