@@ -8,7 +8,10 @@
 
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
-<img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" width="200"> -->
+<img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="300">
+
+
 <a href="https://app.daily.dev/axelriveros"><img src="https://github.com/Axel-07/Axel-07/blob/main/devcard.svg" width="300" alt="Axel's Dev Card"/></a>
 
 
