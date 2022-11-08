@@ -1,8 +1,6 @@
 # Axel-07
 
-<p align="center"> 
-<img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
+
 <br>
 <br>
 <br>
@@ -27,7 +25,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
 
-
+<p align="center"> 
+<img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
