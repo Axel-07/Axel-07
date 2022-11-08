@@ -11,6 +11,7 @@
 <img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="230">
 <a href="https://app.daily.dev/axelriveros"><img src="https://github.com/Axel-07/Axel-07/blob/main/devcard.svg" width="300" alt="Axel's Dev Card"/></a>
 
+
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=flat" alt="axel-07" /> </p>
@@ -33,9 +34,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
+<img align='right' src="https://giphy.com/gifs/medo-esquilo-oPu2IgQHwb3Qk" width="230">
 
-
-
+<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/oPu2IgQHwb3Qk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/medo-esquilo-oPu2IgQHwb3Qk">via GIPHY</a></p>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
