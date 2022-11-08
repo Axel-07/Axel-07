@@ -1,5 +1,9 @@
 # Axel-07
 
+<p align="center"> 
+  <img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
+
 <!-- ![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg) -->
 <img src="https://github.com/Axel-07/Axel-07/blob/main/assets/banner.jpeg">
 
