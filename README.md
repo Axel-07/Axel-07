@@ -34,8 +34,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
-<img align='right' src="https://meme.fandom.com/es/wiki/Dramatic_Chipmunk?file=Dramatic_Chipmunk.gifk" width="230">
-<iframe src="https://giphy.com/embed/fA7rLtaJDIWEzU57CT" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-fA7rLtaJDIWEzU57CT">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="230">
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
