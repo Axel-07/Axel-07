@@ -34,9 +34,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
-<img align='right' src="https://giphy.com/gifs/medo-esquilo-oPu2IgQHwb3Qk" width="230">
+<img align='right' src="https://meme.fandom.com/es/wiki/Dramatic_Chipmunk?file=Dramatic_Chipmunk.gifk" width="230">
 
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/oPu2IgQHwb3Qk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/medo-esquilo-oPu2IgQHwb3Qk">via GIPHY</a></p>
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
