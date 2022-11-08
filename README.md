@@ -16,7 +16,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=flat" alt="axel-07" /> </p>
 <br>
-
+<img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
 - 🌱 I’m currently learning **Machine Learning**
 
 - 😎 Interested in contributing expertise in web and mobile development.
@@ -34,7 +34,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
-<img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="230">
+
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
