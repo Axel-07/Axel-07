@@ -25,7 +25,9 @@
 <img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
 <div/>
   <br>
-  
+
+
+- Albert Einstein.
   
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -41,6 +43,8 @@
 <br>
 <br>
 <br>
+  
+<!--     "Todo aquello que el hombre ignora, no existe para él. Por eso el universo de cada uno, se resume al tamaño de su saber." -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
