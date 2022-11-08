@@ -16,8 +16,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=flat" alt="axel-07" /> </p>
 <br>
-<img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
+
 <br>
+<p>
+<img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
+<p/>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 😎 Interested in contributing expertise in web and mobile development.
