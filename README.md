@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
 
-![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
@@ -33,7 +33,7 @@
 <!-- <hr> -->
 <!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
  -->
-
+![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
