@@ -1,7 +1,7 @@
 # Axel-07
 
-![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg)
-
+<!-- ![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg) -->
+<img src="https://github.com/Axel-07/Axel-07/blob/main/assets/banner.jpeg">
 
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
