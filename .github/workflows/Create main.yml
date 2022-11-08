@@ -1,4 +1,4 @@
-@@ -0,0 +1,23 @@
+# @@ -0,0 +1,23 @@
 name: Generate Datas
 on:
   schedule: # execute every 12 hours
