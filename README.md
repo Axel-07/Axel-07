@@ -42,7 +42,7 @@
 - 📫 How to reach me **riverosaxeln@gmail.com**
 <br>
 
-```yaml
+
   <p align='center'>
   <img  src="https://github.com/Axel-07/Axel-07/blob/main/assets/889b00578e1a4cf1174061d294256f59.jpg" width="500">
   <p/>
