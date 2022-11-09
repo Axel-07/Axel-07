@@ -41,7 +41,7 @@
 - ⚡ Fun fact: I'm a geek who loves sports!⚽️🏋️‍♀️🏆
 - 📫 How to reach me **riverosaxeln@gmail.com**
 <br>
-
+<hr>
 
   <p align='center'>
   <img  src="https://github.com/Axel-07/Axel-07/blob/main/assets/889b00578e1a4cf1174061d294256f59.jpg" width="500">
@@ -59,7 +59,7 @@
     - Albert Einstein.  
   </h3>
   
-  
+  <hr>
   <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
