@@ -93,3 +93,7 @@
 </p>
 
 ![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=70&section=footer"/>
+</p>
