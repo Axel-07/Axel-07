@@ -17,7 +17,7 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=flat" alt="axel-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=0e75b6&style=plastic" alt="axel-07" /> </p>
 <br>
 
 <br>
