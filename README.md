@@ -27,7 +27,7 @@
   <br>
 
 
-- Albert Einstein.
+
   
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -41,11 +41,25 @@
 - ⚡ Fun fact: I'm a geek who loves sports!⚽️🏋️‍♀️🏆
 - 📫 How to reach me **riverosaxeln@gmail.com**
 <br>
-<br>
-<br>
-  
-<!--     "Todo aquello que el hombre ignora, no existe para él. Por eso el universo de cada uno, se resume al tamaño de su saber." -->
 
+
+  <p align='center'>
+  <img  src="https://github.com/Axel-07/Axel-07/blob/main/assets/889b00578e1a4cf1174061d294256f59.jpg" width="500">
+  <p/>
+  
+  
+<!--   <font color="#0000FF" size="50" face="Helvetica">
+  <u> <big>
+    "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge.
+    - Albert Einstein.
+  </big></u>
+    </font> -->
+  <h3>
+    "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge.<br>
+    - Albert Einstein.  
+  </h3>
+  <br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07" alt="axel-07" /></a> </p>
 
 
