@@ -55,7 +55,7 @@
   </big></u>
     </font> -->
   <h3>
-    "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge.<br>
+    "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge."<br>
     - Albert Einstein.  
   </h3>
   
