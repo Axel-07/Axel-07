@@ -50,7 +50,7 @@
   <p/>
   
   
-<!--   <font color="#0000FF" size="50" face="Helvetica">
+<!--   <font color="#0000FF" size="50" face="Helvetica" "Killer7">
   <u> <big>
     "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge.
     - Albert Einstein.
