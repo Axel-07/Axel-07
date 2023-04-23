@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Axel-07&height=100&section=header"/>
 </p>
 <!-- <img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>  -->
-#Nosce te Ipsum
+
 <!-- ![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg) -->
 <img src="https://github.com/Axel-07/Axel-07/blob/main/assets/banner.jpeg">
-Universe
+
 <h1 align="center">Hi 👋, I'm Axel Riveros</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" width="200"> -->
@@ -16,7 +16,7 @@ Universe
 
 <a href="https://app.daily.dev/axelriveros"><img src="https://github.com/Axel-07/Axel-07/blob/main/devcard.svg" width="300" alt="Axel's Dev Card"/></a>
 
-
+Br
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel-07&label=Profile%20views&color=228c22&style=for-the-badge" alt="axel-07" /> </p>
