@@ -31,7 +31,7 @@
 
 
   
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 😎 Interested in contributing expertise in web and mobile development.
 
