@@ -15,7 +15,7 @@
 </p> -->
 
 <a href="https://app.daily.dev/axelriveros"><img src="https://github.com/Axel-07/Axel-07/blob/main/devcard.svg" width="300" alt="Axel's Dev Card"/></a>
-...
+
 
 <br>
 <br>
@@ -31,7 +31,7 @@
 
 
   
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 😎 Interested in contributing expertise in web and mobile development.
 
