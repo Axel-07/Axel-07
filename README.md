@@ -25,7 +25,7 @@
 <div/>
   <br>
 
-- 🌱 I’m currently learning **Artificial Intelligence**.
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**.
 
 - 😎 Interested in contributing expertise in web and mobile development.
 
