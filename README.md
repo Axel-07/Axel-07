@@ -96,12 +96,12 @@
   
 <br>
 <!--![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)-->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axel-07/Axel-07/output/github-contribution-grid-snake-dark.svg">
+ /* <picture>
+  //<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axel-07/Axel-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axel-07/Axel-07/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Axel-07/Axel-07/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="left">
+<p align="left">*/
   
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=70&section=footer"/>
