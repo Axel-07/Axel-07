@@ -93,6 +93,12 @@
  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 <!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
 </p>
+
+> **✍️ Random Dev Quote**:
+
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+|---|
+
 <br>
 
 ![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
