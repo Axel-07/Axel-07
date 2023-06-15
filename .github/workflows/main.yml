@@ -26,6 +26,8 @@ jobs:
           outputs: |
                       dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=white&color_dots=#000000F;#5E5E5E;#787878;#919191;#BDBDBD; 
 
+          snake_color: 'blue'
+
 # I     dist/github-snake.svg
 # II    dist/github-snake-dark.svg?palette=github-dark
 # III   dist/bylickilabs-Snake.svg?palette=github-dark&color_snake=red&color_dots=#000000F;#CDAD00;#EEC900;#FFD700;#FFD700;
