@@ -97,6 +97,7 @@
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 <br>
+
 ![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
 <p align="left">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
