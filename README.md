@@ -7,7 +7,7 @@
 <img src="https://github.com/Axel-07/Axel-07/blob/main/assets/banner.jpeg">
 
 <h1 align="center">Hi! 👋, I'm Axel Riveros</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina.</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" width="200"> -->
 <img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="350">
 <!-- <p align='right'>
@@ -40,7 +40,7 @@
 - 📚 Love reading books on personal development.
 - ⚡ Fun fact: I'm a geek who loves sports!And really love Tech World⚽️🏋️‍♀️🏆
 - 📫 How to reach me **riverosaxeln@gmail.com**
-<br>
+    <br>
   <br>
 <hr>
 
@@ -60,14 +60,11 @@
     - Albert Einstein.  
   </h3>
   
-  
 <!--   <font face="Century Gothic, CenturyGothic, AppleGothic, sans-serif">Texto</font> -->
   <hr>
   <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel-07&theme=matrix&row=1&column=9" alt="axel-07" /></a> </p>
-
-
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -99,11 +96,8 @@
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
-
 <br>
-
 ![Snake animation](https://github.com/Axel-07/Axel-07/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=70&section=footer"/>
