@@ -39,7 +39,7 @@
 
 - 📚 Love reading books on personal development.
 - ⚡ Fun fact: I'm a geek who loves sports!And really love Tech World⚽️🏋️‍♀️🏆
-- 📫 How to reach me **riverosaxeln@gmail.com**
+- 📫 How to reach me - **riverosaxeln@gmail.com**
     <br>
   <br>
 <hr>
