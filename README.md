@@ -41,18 +41,15 @@
     <br>
   <br>
 <hr>
-
   <p align='center'>
   <img  src="https://github.com/Axel-07/Axel-07/blob/main/assets/889b00578e1a4cf1174061d294256f59.jpg" width="500">
   <p/>
-  
 <!--   <font color="#0000FF" size="50" face="Helvetica" "Killer7">
   <u> <big>
     "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge.
     - Albert Einstein.
   </big></u>
     </font> -->
-    
   <h3>
     "Everything that man ignores, does not exist for him. Therefore, the universe of each one, is summed up to the size of his knowledge."<br>
     - Albert Einstein.  
