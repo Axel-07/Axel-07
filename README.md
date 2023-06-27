@@ -36,12 +36,19 @@
 
   
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**.
+- 
 - 😎 Interested in contributing expertise in web and mobile development.
+- 
 - 👯 Looking to collaborate on Innovative Projects.
+- 
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+- 
 - 📚 Love reading books on personal development.
+- 
 - ⚡ Fun fact: I'm a geek who loves sports!And really love Tech World⚽️🏋️‍♀️🏆
+- 
 - 📫 How to reach me - **riverosaxeln@gmail.com**
+- 
     <br>
   <br>
 <hr>
