@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Axel-07&height=100&section=header"/>
 </p>
-
-
 <!-- <img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>  -->
 <!-- ![Neo](https://raw.githubusercontent.com/Axel-07/Axel-07/master/assets/banner.jpeg) -->
 <img src="https://github.com/Axel-07/Axel-07/blob/main/assets/banner.jpeg">
