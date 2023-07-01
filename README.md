@@ -49,7 +49,7 @@
   
 - 📫 How to reach me - **riverosaxeln@gmail.com**
 
-  <hr>
+  <br>
     <br>
   <br>
 <hr>
