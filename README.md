@@ -28,6 +28,7 @@
 
 <div>
 <img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
+
   
 <div/>
   <br>
@@ -87,6 +88,7 @@
 <!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
  -->
 ### 💻 My favorite tools and technologies
+
 <table align="center">
   <tr>
     <td align="center" width="96">
