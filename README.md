@@ -29,12 +29,10 @@
 <div>
 <img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
 
-  
 <div/>
   <br>
       <br>
 
-  
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**.
 
 - 😎 Interested in contributing expertise in web and mobile development.
