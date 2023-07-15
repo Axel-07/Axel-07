@@ -28,7 +28,6 @@
 
 <div>
 <img align='right' src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300">
-
 <div/>
   <br>
       <br>
