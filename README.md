@@ -210,7 +210,9 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Axel-07}/count.svg" /></p> 
-<br></div>
+
+  <br>
+</div>
 <!-- <br> -->
 <!-- {Cyebukayire} -->
 <!-- <br> --> 
