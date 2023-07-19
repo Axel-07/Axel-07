@@ -38,7 +38,7 @@
   
 - 👯 Looking to collaborate on Innovative Projects.
   
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies
   
 - 📚 Love reading books on personal development.
   
@@ -69,7 +69,7 @@
   
 <!--   <font face="Century Gothic, CenturyGothic, AppleGothic, sans-serif">Texto</font> -->
 
-  <hr>
+   <hr>
   <br>
 <br>
 
@@ -210,7 +210,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Axel-07}/count.svg" /></p> 
-
   <br>
 </div>
 <!-- <br> -->
