@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         id: Axel-07-Snake
         with:
           github_user_name: Axel-07
