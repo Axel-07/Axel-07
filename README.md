@@ -205,7 +205,7 @@
  </tr>
   <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=" width="48" height="48" alt="JAVA" />
+        <img src="https://skillicons.dev/" width="48" height="48" alt="JAVA" />
       <br>JAVA
     </td>
         <td align="center" width="96">
