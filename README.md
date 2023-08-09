@@ -222,7 +222,7 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+        <img src="https://skillicons.dev/" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
               <td align="center" width="96">
@@ -234,7 +234,7 @@
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
