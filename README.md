@@ -230,8 +230,8 @@
       <br>Vue
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
+        <img src="https://skillicons.dev/" width="48" height="48" alt="Sass" />
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="MySQL" />
