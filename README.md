@@ -239,7 +239,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <br>
     </td>
  </tr>
 </table>
