@@ -223,7 +223,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="Vue" />
@@ -235,7 +235,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="PostgreSQL" />
