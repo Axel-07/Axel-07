@@ -210,16 +210,16 @@
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <br>
       </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <br>
     </td>
             <td align="center" width="96">
               <img src="https://skillicons.dev/" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="WordPress" />
@@ -227,7 +227,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/" width="48" height="48" alt="Sass" />
