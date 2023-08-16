@@ -218,7 +218,7 @@
       <br>
     </td>
             <td align="center" width="96">
-              <img src="https://skillicons.dev/" width="48" height="48" alt="VsCode" />
+              <img src="https://skillicons.dev/d" width="48" height="48" alt="VsCode" />
       <br>
     </td>
               <td align="center" width="96">
