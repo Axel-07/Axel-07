@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-<!-- <img align='right' src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" width="200"> -->bb
+<!-- <img align='right' src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" width="200"> -->
 <img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="350">
 
 <!-- <p align='right'>
