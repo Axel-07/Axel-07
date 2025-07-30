@@ -253,6 +253,8 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Axel-07}/count.svg" /></p> 
+
+ <p> <img src="https://profile-counter.deno.dev/{Axel-07}/count.svg" alt="{Axel-07} Visitor's Count" /> </p> 
   <br>
 </div>
 <!-- <br> -->
