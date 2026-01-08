@@ -248,7 +248,7 @@
 </table>
 
 
-#Axel-07
+#Axel-07 - Nosce te ipsum
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
